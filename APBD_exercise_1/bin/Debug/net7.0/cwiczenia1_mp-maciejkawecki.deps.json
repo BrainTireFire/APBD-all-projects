@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "cwiczenia1_mp-maciejkawecki/1.0.0": {
+        "runtime": {
+          "cwiczenia1_mp-maciejkawecki.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "cwiczenia1_mp-maciejkawecki/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

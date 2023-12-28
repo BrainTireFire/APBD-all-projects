@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "cwiczenia1_mp-maciejkawecki": {
+      "commandName": "Project",
+      "commandLineArgs": "https://pjwstk.edu.pl",
+      "#commandLineArgs": "https://pjwstk.edu.pl"
+    }
+  }
+}

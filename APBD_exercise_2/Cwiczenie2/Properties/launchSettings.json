@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Cwiczenie2": {
+      "commandName": "Project",
+      "commandLineArgs": "P:\\Projects\\C#\\APBP\\cwiczenia2_mp-maciejkawecki\\dane.csv P:\\Projects\\C#\\APBP\\cwiczenia2_mp-maciejkawecki\\ P:\\Projects\\C#\\APBP\\cwiczenia2_mp-maciejkawecki\\logs.txt json"
+    }
+  }
+}
